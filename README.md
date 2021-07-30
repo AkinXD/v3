@@ -17,6 +17,8 @@ $ pip2 install ipaddress
 
 $ git clone https://github.com/AkinXD/v3
 
+$ cd v3
+
 $ git pull
 
 $ python2 v3.py
